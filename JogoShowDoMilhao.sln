@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoShowDoMilhao", "JogoShowDoMilhao\JogoShowDoMilhao.csproj", "{98E56BC0-F2C2-4A2F-A9B8-25F6FF9022EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E56BC0-F2C2-4A2F-A9B8-25F6FF9022EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E56BC0-F2C2-4A2F-A9B8-25F6FF9022EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E56BC0-F2C2-4A2F-A9B8-25F6FF9022EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E56BC0-F2C2-4A2F-A9B8-25F6FF9022EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2DB71A-930C-4BF4-9DE5-1C8876CF4554}
+	EndGlobalSection
+EndGlobal
